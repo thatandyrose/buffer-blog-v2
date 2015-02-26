@@ -491,15 +491,6 @@ a.happiness:after {
 	position: relative;
 }
 
-.logotype {
-	background: url(images/buffer-logotype.png) no-repeat;
-	background-size: 100%;
-	display: inline-block;
-	height: 28px;
-	margin-bottom: -1px;
-	width: 106px;
-}
-
 .site-title {
 	font: 200 2.1875rem/1 "Open Sans";
 	color: #323B43;
@@ -507,11 +498,16 @@ a.happiness:after {
 	-webkit-transition: color 200ms ease;
 	        transition: color 200ms ease;
 	text-rendering: optimizeLegibility;
+	background: url(images/bt_logo_solid.png) no-repeat;
+	background-size: 206px auto;
+	padding-left:210px; 
+	height: 50px;
+	padding-top: 6px;
+	font-family: "courier"
 }
 
 .site-title:hover {
-	color: #168eea;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .tagline {
