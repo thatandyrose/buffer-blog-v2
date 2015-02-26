@@ -504,6 +504,7 @@ a.happiness:after {
 	height: 50px;
 	padding-top: 6px;
 	font-family: "courier"
+	display: inline-block;
 }
 
 .site-title:hover {
