@@ -954,7 +954,6 @@ a[rel="tag"] {
 	background: #1bbfa0;
 	box-shadow: 0px 3px 0px #0FA88A;
 	border-radius: 3px;
-	border: 1px solid #137dcf;
 	color: #fff;
 	cursor: pointer;
 	display: inline-block;
@@ -968,13 +967,7 @@ a[rel="tag"] {
 }
 
 .footer-signup:hover {
-	background: #2d99ec;
-	background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#45a5ee),color-stop(100%,#168eea));
-	background: -webkit-linear-gradient(top,#45a5ee 0,#2d99ec 100%);
-	background: -webkit-gradient(linear,left top,left bottom,from(#45a5ee),to(#2d99ec));
-	background: -webkit-linear-gradient(top, #45a5ee 0, #2d99ec 100%);
-	background: linear-gradient(top,#45a5ee 0,#2d99ec 100%);
-	text-decoration: none;
+	background: #0FA88A;
 }
 
 .footer-learn-more {
