@@ -383,16 +383,17 @@ big {
 .top-nav li:first-child {
 	border-bottom: none;
 	position: relative;
-	background: url(images/bt_logo_solid.png) no-repeat;
-	background-size: 106px auto;
-	padding-left: 108px;
-	background-position: 0 9px;
 }
 
 .top-nav li:first-child a {
 	color: #8B959E;
 	font-size: 0.75rem;
 	text-decoration: none;
+	background: url(images/bt_logo_solid.png) no-repeat; 
+	background-size: 106px auto;
+	padding-left: 108px;
+	background-position: 0 8px;
+	display:inline-block;
 }
 
 a.rollover {

@@ -38,11 +38,8 @@
 
 	<nav id="nav-wrap" role="navigation">
 		<ul class="top-nav">
-			<li><a href="http://bufferapp.com">Buffer</a></li>
-			<li><a class="rollover social" href="http://blog.bufferapp.com">Social</a></li>
-			<li><a class="rollover open" href="http://open.bufferapp.com">Open</a></li>
-			<li class="current"><a class="rollover overflow" href="http://overflow.bufferapp.com">Overflow</a></li>
-			<li><a class="rollover happiness" >Happiness</a></li>
+			<li><a href="http://btmetrics.com">.com</a></li>
+			<li><a class="rollover" >Happiness</a></li>
 		</ul>
 	</nav><!-- #navigation -->
 
