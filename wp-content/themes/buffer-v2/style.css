@@ -473,8 +473,8 @@ a.happiness:after {
 
 .site-title {
 	font: 200 2.1875rem/1 "Open Sans";
-	color: #323B43;
-	text-transform: lowercase;
+	color: #52617C;
+	text-transform: uppercase;
 	-webkit-transition: color 200ms ease;
 	        transition: color 200ms ease;
 	text-rendering: optimizeLegibility;
