@@ -383,6 +383,10 @@ big {
 .top-nav li:first-child {
 	border-bottom: none;
 	position: relative;
+	background: url(images/bt_logo_solid.png) no-repeat;
+	background-size: 106px auto;
+	padding-left: 108px;
+	background-position: 0 9px;
 }
 
 .top-nav li:first-child a {
