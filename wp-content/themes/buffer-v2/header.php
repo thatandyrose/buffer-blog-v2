@@ -53,7 +53,7 @@
 			<div class="tagline"><?php bloginfo( 'description' ); ?></div>
 		</div>
 
-		<div class="header-sign-up">Buffer makes managing social media fun and easy. <a href="http://bufferapp.com/">Sign Up. It’s Free.</a></div>
+		<div class="header-sign-up">Get actionable insights into your most important SaaS metrics. <a href="http://btmetrics.com/">Start Your Free Trial.</a></div>
 
 	</header><!-- #masthead -->
 

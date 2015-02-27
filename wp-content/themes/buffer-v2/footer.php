@@ -21,16 +21,16 @@
   </div>
 
 	<footer class="about-buffer footer" role="contentinfo">
-    <p class="about-blurb">Buffer helps you manage multiple social media accounts at once. Quickly schedule content from anywhere on the web, collaborate with team members, and analyze rich statistics on how your posts perform.</p>
-    <a class="footer-signup" href="http://bufferapp.com/">Sign Up. It's Free.</a>
-    <a class="footer-learn-more" href="#">or Learn More</a>
+    <p class="about-blurb">BTMetrics automagically calculates your most important SaaS metrics, so you can throw away the spreadsheets and get back to growing your business.</p>
+    <a class="footer-signup" href="http://btmetrics.com/">Start Your Free Trial.</a>
+    <a class="footer-learn-more" href="http://btmetrics.com/">or Learn More</a>
 
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
 
-  <span class="copyright">©2014 Buffer, Inc.</span>
+  <span class="copyright">©2015 BTMetrics, Inc.</span>
 
 </body>
 </html>
