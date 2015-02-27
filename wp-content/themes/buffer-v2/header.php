@@ -39,7 +39,7 @@
 	<nav id="nav-wrap" role="navigation">
 		<ul class="top-nav">
 			<li><a href="http://btmetrics.com">.com</a></li>
-			<li><a class="rollover" >Happiness</a></li>
+			<li><a class="btm-btn" >Start Your Free Trial</a></li>
 		</ul>
 	</nav><!-- #navigation -->
 
