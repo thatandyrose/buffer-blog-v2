@@ -140,10 +140,6 @@ a {
 	color: #168eea;
 }
 
-a:focus {
-	border-bottom: 3px solid #168eea;
-}
-
 a:hover,
 a:active {
 	outline: 0;
