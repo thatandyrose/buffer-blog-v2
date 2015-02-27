@@ -349,6 +349,7 @@ big {
 	height: 3.125rem;
 	overflow: hidden;
 	width: 100%;
+	min-height: 70px;
 }
 
 .top-nav {
@@ -368,7 +369,7 @@ big {
 	display: inline-block;
 	font-size: 0.875rem;
 	line-height: 2.75rem;
-	padding-bottom: 6px;
+	padding-top: 12px;
 	position: relative;
 	-webkit-transition: padding-bottom 200ms ease-in-out;
 	        transition: padding-bottom 200ms ease-in-out;
@@ -386,12 +387,11 @@ big {
 
 .top-nav li:first-child a {
 	color: #8B959E;
-	font-size: 0.75rem;
 	text-decoration: none;
 	background: url(images/bt_logo_solid.png) no-repeat; 
-	background-size: 106px auto;
-	padding-left: 108px;
-	background-position: 0 8px;
+	background-size: 163px auto;
+	padding-left: 166px;
+	background-position: 0 0px;
 	display:inline-block;
 }
 
@@ -475,9 +475,9 @@ a.happiness:after {
 	-webkit-transition: color 200ms ease;
 	        transition: color 200ms ease;
 	text-rendering: optimizeLegibility;
-	background: url(images/bt_logo_solid.png) no-repeat;
-	background-size: 206px auto;
-	padding-left:210px; 
+	background: url(images/bt_logo_solid_no_text.png) no-repeat;
+	background-size: 46px auto;
+	padding-left:50px; 
 	height: 50px;
 	padding-top: 6px;
 	font-family: "courier";
@@ -1066,4 +1066,6 @@ BTMetrics
 	padding-right: 15px;
 	text-transform: uppercase;
 	box-shadow: 0px 3px 0px #0FA88A;
+	line-height: 38px;
+	padding-top: 2px;
 }
