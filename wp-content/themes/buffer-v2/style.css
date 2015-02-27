@@ -406,13 +406,6 @@ a.rollover {
 	        transition: -webkit-transform 200ms ease-in-out, color 300ms ease;
 }
 
-a.rollover:hover,
-a.current {
-	color: #323B43;
-	-webkit-transform: translateY(-8px);
-	        transform: translateY(-8px);
-}
-
 a.rollover:after {
 	background: transparent;
 	color: #8B959E;
