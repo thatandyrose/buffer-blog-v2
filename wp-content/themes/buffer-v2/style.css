@@ -471,12 +471,12 @@ a.happiness:after {
 	-webkit-transition: color 200ms ease;
 	        transition: color 200ms ease;
 	text-rendering: optimizeLegibility;
-	background: url(images/bt_logo_solid_no_text.png) no-repeat;
-	background-size: 46px auto;
-	padding-left:50px; 
+	background: url(images/bt_logo_solid.png) no-repeat;
+	background-size: 206px auto;
+	padding-left:210px; 
 	height: 50px;
 	padding-top: 6px;
-	font-family: "courier";
+	font-family: "courier"
 	display: inline-block;
 }
 
