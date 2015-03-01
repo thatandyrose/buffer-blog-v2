@@ -496,7 +496,7 @@ a.happiness:after {
 	color: #8B959E;
 	font-size: 0.75rem;
 	line-height: 1.4;
-	max-width: 16rem;
+	max-width: 17rem;
 	position: absolute;
 	right: 0;
 	text-align: right;
@@ -508,6 +508,12 @@ a.happiness:after {
   #masthead { margin: 5% 1rem 6% 1rem; }
 	.tagline { max-width: 280px; }
 
+}
+
+@media only screen and (max-width: 500px) {
+	.header-sign-up {
+		max-width: 13rem;
+	}
 }
 
 @media only screen and (max-width: 500px) {
