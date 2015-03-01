@@ -13,11 +13,11 @@
   <div class="newsletter-cta">
     <h1 class="newsletter-cta-h1">Join us on our journey from $0 – $10K in monthly recurring revenue.</h1>
     <h2 class="newsletter-cta-h2">We're learning a lot and sharing <em>everything</em> with you!</h2>
-    <form class="newsletter-cta-form">
-      <input class="newsletter-cta-input" type="email" placeholder="Email Address"><button class="newsletter-cta-button" alt="Subscribe" type="submit"></button>
-      <div class="newsletter-cta-caption">Don’t worry, you can unsubscribe at any time.</div>
-    </form>
-
+    <?php
+      if( function_exists( 'mc4wp_form' ) ) {
+          mc4wp_form();
+      }
+    ?>
   </div>
 
 	<footer class="about-buffer footer" role="contentinfo">
