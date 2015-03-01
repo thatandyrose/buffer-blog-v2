@@ -137,7 +137,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #168eea;
+	color: #1bbfa0;
 }
 
 a:hover,
@@ -724,7 +724,7 @@ article {
 }
 
 .continue-reading:hover {
-  background: #168eea;
+  background: #1bbfa0;
   border: 1px solid transparent;
   color: white !important;
   text-decoration: none;
@@ -805,7 +805,7 @@ a[rel="tag"] {
 }
 
 .nav-previous:before {
-	color: #168eea;
+	color: #1bbfa0;
 	content: "← ";
 }
 
@@ -816,7 +816,7 @@ a[rel="tag"] {
 }
 
 .nav-next:after {
-	color: #168eea;
+	color: #1bbfa0;
 	content: " →";
 }
 
@@ -876,7 +876,7 @@ a[rel="tag"] {
 }
 
 .newsletter-cta-button {
-	background: #168eea;
+	background: #1bbfa0;
 	border-radius: 0 3px 3px 0;
 	border: none;
 	color: #fff;
@@ -973,7 +973,7 @@ a[rel="tag"] {
 }
 
 .footer-learn-more:hover {
-	color: #168eea;
+	color: #1bbfa0;
 }
 
 
