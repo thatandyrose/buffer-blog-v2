@@ -51,7 +51,9 @@
 			<div class="tagline"><?php bloginfo( 'description' ); ?></div>
 		</div>
 
-		<div class="header-sign-up">Get actionable insights into your most important SaaS metrics. <a href="http://btmetrics.com/">Start Your Free Trial.</a></div>
+		<div class="header-sign-up">
+			Get actionable insights into your most important SaaS metrics. Visit <a href="http://btmetrics.com/">BTMetrics.com to learn more.</a>
+		</div>
 
 	</header><!-- #masthead -->
 
