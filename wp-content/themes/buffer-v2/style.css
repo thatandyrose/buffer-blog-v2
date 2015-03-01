@@ -345,7 +345,7 @@ big {
 	height: 3.125rem;
 	overflow: hidden;
 	width: 100%;
-	min-height: 70px;
+	height: 10px;
 }
 
 .top-nav {
