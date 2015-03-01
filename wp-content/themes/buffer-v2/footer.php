@@ -22,7 +22,7 @@
 
 	<footer class="about-buffer footer" role="contentinfo">
     <p class="about-blurb">BTMetrics automagically calculates your most important SaaS metrics, so you can throw away the spreadsheets and get back to growing your business.</p>
-    <a class="footer-signup" href="http://btmetrics.com/">Start Your Free Trial.</a>
+    <a class="footer-signup" href="http://btmetrics.com/">Start Your Free Trial</a>
     <a class="footer-learn-more" href="http://btmetrics.com/">or Learn More</a>
 
 	</footer><!-- #colophon -->
