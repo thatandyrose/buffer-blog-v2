@@ -831,7 +831,7 @@ a[rel="tag"] {
 -----------------------------*/
 
 .newsletter-cta {
-	background: #323B43;
+	background: #1bbfa0;
 	border-radius: 3px;
 	color: white;
 	height: auto;
@@ -846,7 +846,7 @@ a[rel="tag"] {
 }
 
 .newsletter-cta-h2 {
-	color: #8B959E;
+	color: white;
 }
 
 .newsletter-cta-form {
@@ -876,7 +876,7 @@ a[rel="tag"] {
 }
 
 .newsletter-cta-button {
-	background: #1bbfa0;
+	background: #52617C;
 	border-radius: 0 3px 3px 0;
 	border: none;
 	color: #fff;
@@ -895,7 +895,7 @@ a[rel="tag"] {
 }
 
 .newsletter-cta-caption {
-	color: #8B959E;
+	color: white;
 	font-size: 12px;
 	left: 275px;
 	position: relative;
