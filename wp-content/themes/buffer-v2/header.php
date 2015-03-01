@@ -52,7 +52,7 @@
 		</div>
 
 		<div class="header-sign-up">
-			Get actionable insights into your most important SaaS metrics. Visit <a href="http://btmetrics.com/">BTMetrics.com to learn more.</a>
+			Get actionable insights into your most important SaaS metrics. <a href="http://www.btmetrics.com/?utm_source=blog&utm_medium=10K-Journey&utm_campaign=top-blog-link">Visit BTMetrics.com to learn more.</a>
 		</div>
 
 	</header><!-- #masthead -->
