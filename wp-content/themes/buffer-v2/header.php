@@ -12,7 +12,7 @@
 <html <?php language_attributes(); ?>>
 <head>
 
-	<title>Buffer <?php wp_title( '|', true, 'left' ); ?></title>
+	<title>BTMetrics <?php wp_title( '|', true, 'left' ); ?></title>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,13 +22,13 @@
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700" rel="stylesheet" type="text/css">
 
 	<!-- Favicon and Feed -->
-	<link rel="shortcut icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/favicon.png">
-	<link rel="alternate" type="application/rss+xml" title="Buffer <?php bloginfo( 'name' ); ?> Feed" href="<?php echo site_url(); ?>/feed/">
+	<link rel="shortcut icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/favicon-32x32.png">
+	<link rel="alternate" type="application/rss+xml" title="BTMetrics <?php bloginfo( 'name' ); ?> Feed" href="<?php echo site_url(); ?>/feed/">
 
 	<!--  iPhone Web App Home Screen Icon -->
-	<link rel="apple-touch-icon" sizes="72x72" href="<?php echo get_template_directory_uri(); ?>/images/devices/buffer-icon-ipad.png" />
-	<link rel="apple-touch-icon" sizes="114x114" href="<?php echo get_template_directory_uri(); ?>/images/devices/buffer-icon-retina.png" />
-	<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/images/devices/buffer-icon.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="<?php echo get_template_directory_uri(); ?>/images/devices/apple-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="<?php echo get_template_directory_uri(); ?>/images/devices/apple-icon-114x114.png" />
+	<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/images/devices/apple-icon.png" />
 
 	<?php wp_head(); ?>
 
